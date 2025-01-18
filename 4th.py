@@ -1,0 +1,6 @@
+name=input()
+score=input()
+dpt=input()
+print("N:",name)
+print("S:",score)
+print("D:",dpt)
